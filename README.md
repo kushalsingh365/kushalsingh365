@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60">, I`m Kushal Singh !</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I am Kushal Singh !</h1>
 <h3 align="center">A passionate Software Engineer ❤ from India</h3>
 
 <br>
