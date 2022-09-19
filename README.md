@@ -50,7 +50,7 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/c1eb123790307753fcb19967ec116c26133f458fe1a74ebfeadb4fd5cf1366e7/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f7375626c696d652d746578742e706e67" alt="sass" width="40" height="40"/> </a>
 </p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<img src='https://https://thecodinglove.com//' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='random-memer.herokuapp.com' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
