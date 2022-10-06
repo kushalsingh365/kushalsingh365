@@ -34,7 +34,7 @@
 ## Connect with me:
 
 <div align="left">
- <a href="https://leetcode.com/kushalsingh365/" target="blank"><img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+ <a href="https://leetcode.com/kushalsingh365/" target="blank"><img alt="LeetCode" src="https://avatars.githubusercontent.com/u/41718343?s=64&v=4"/></a>
   <a href="https://www.linkedin.com/in/kushalsingh365/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kushalsingh0129@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/kushal_singh365"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
