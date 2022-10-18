@@ -49,7 +49,3 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/e17f27ccb104b1ee595bb3c320eaf9ab8d0b1767969bc204fb7813db450ebd8f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76322e706e67" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2f7d9c653bd1edd735b3db07d7c4b47ae45959e17c14053fa4f543ac93cc1a8c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/c1eb123790307753fcb19967ec116c26133f458fe1a74ebfeadb4fd5cf1366e7/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f7375626c696d652d746578742e706e67" alt="sass" width="40" height="40"/> </a>
-</p>
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
