@@ -24,7 +24,7 @@
 
 - ⚡ I have a keen interest in Problem-Solving.
 
-- 💻 I have done some projects in the field of Python.
+- 💻 I have done some projects in the field of Python and explore other field.
 
 - 📫 How to reach me: **kushalsingh0129@gmail.com**
 
